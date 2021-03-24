@@ -10,7 +10,7 @@ This project aims at creating a device able to emulate most common key types suc
 
 At the heart of the emulator lies a 3.3V Arduino Pro Mini chosen in order to use battery voltage without a boost converter. As the whole project needs to be portable, it has a 150mah battery with TP4056 module for charging and protection. All the information gets displayed on an OLED display and all of this gets controlled by 3 pushbuttons.
 
-Emulator's case gets 3D-printed in 3 parts: main body, part holding arduino and TP4056 module? and the lid. All stl files as well as Fusion 360 master file are available in the repository. More information about printing can be found on [Thingiverse page](https://www.thingiverse.com/thing:4578023).
+Emulator's case gets 3D-printed in 3 parts: main body, part holding arduino and TP4056 module, and the lid. All stl files as well as Fusion 360 master file are available in the repository. More information about printing can be found on [Thingiverse page](https://www.thingiverse.com/thing:4578023).
 
 The wiring is done with simple wires, so considering emulator's small size (66.5 * 16 * 33 mm) it is real messy.
 
